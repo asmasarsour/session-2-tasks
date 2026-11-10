@@ -12,7 +12,7 @@ int main() {
         int tens = n / 10;
         int ones = n % 10;
         int sum = tens + ones;
-
         cout << sum << endl;
     }
+    return 0;
 }
